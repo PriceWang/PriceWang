@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **PriceWang/PriceWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3 align="left">
+  Hi there 👋, I'm PriceWang
+</h3>
+
+<p>
+🌱 My research interests include Unsupervised Learning, Signal Processing and Embedded Systems <br> 
+📫 Contact me via helloprice@pricewang.art <br>
+</p>
+
+<p>
+  <img  src="https://github-readme-stats.vercel.app/api?username=PriceWang&hide=issues,prs" height="180"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriceWang&layout=compact&card_width=330" height="180"/>
+</p>
